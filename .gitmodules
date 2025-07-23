@@ -1,6 +1,6 @@
 [submodule "godot-cpp"]
 	path = godot-cpp
-	url = https://github.com/GodotNativeTools/godot-cpp
+	url = https://github.com/godotengine/godot-cpp.git
 [submodule "src/sqlite"]
 	path = src/sqlite
 	url = https://github.com/sqlite/sqlite.git
